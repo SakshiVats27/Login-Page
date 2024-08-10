@@ -13,9 +13,9 @@ JavaScript Functionality: JavaScript is used to handle form toggling.
 You can view a live demo of the page at https://login-signup-animated-page.vercel.app/
 
 🖥️**Technologies Used**
-HTML: Markup structure of the page.
-CSS: Styling and animations, including Flexbox for layout management.
-JavaScript: For handling form toggle functionality.
+1. HTML: Markup structure of the page.
+2. CSS: Styling and animations, including Flexbox for layout management.
+3. JavaScript: For handling form toggle functionality.
 
 🧑🏻‍💻**Getting Started**
 1. Clone the repository
@@ -23,7 +23,7 @@ JavaScript: For handling form toggle functionality.
 3. Open the "index.html" file in your browser to view the page
 
 📂**Folder Structure**
-index.html: The main HTML file containing the structure of the page.
-styles.css: The CSS file with styles for the page, including layout, colors, and transitions.
-script.js: The JavaScript file that handles the toggle functionality between login and signup forms.
-Readme.md: The page you are reading now.
+➡index.html: The main HTML file containing the structure of the page.
+➡styles.css: The CSS file with styles for the page, including layout, colors, and transitions.
+➡script.js: The JavaScript file that handles the toggle functionality between login and signup forms.
+➡Readme.md: The page you are reading now.
