@@ -23,7 +23,7 @@ You can view a live demo of the page at https://login-signup-animated-page.verce
 3. Open the "index.html" file in your browser to view the page
 
 📂**Folder Structure**
-➡index.html: The main HTML file containing the structure of the page.
-➡styles.css: The CSS file with styles for the page, including layout, colors, and transitions.
-➡script.js: The JavaScript file that handles the toggle functionality between login and signup forms.
-➡Readme.md: The page you are reading now.
+1. index.html: The main HTML file containing the structure of the page.
+2. styles.css: The CSS file with styles for the page, including layout, colors, and transitions.
+3. script.js: The JavaScript file that handles the toggle functionality between login and signup forms.
+4. Readme.md: The page you are reading now.
